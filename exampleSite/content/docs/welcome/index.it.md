@@ -1,5 +1,5 @@
 ---
-title: "Benvenuti a Blowfish"
+title: "CIAO"
 weight: 1
 draft: false
 description: "Scopri le novità della versione 2.0 di Blowfish."
